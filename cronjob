@@ -1,0 +1,2 @@
+* * * * * /path/to/python /path/to/script.py
+* * * * * sleep 30 && /path/to/python /path/to/script.py
