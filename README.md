@@ -8,4 +8,4 @@ You will have to obtain a Twilio number, Twilio keys and Anthropic key. You'll h
 This is the main code and the crontab runs this code every 30 seconds
 
 # More numbers
-You can add multiple numbers you would like to call
+You can add multiple numbers you would like to alert when Muddy waters releases a report
